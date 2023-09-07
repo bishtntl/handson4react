@@ -1,0 +1,54 @@
+body{
+    background-image: linear-gradient(rgb(150, 227, 227),rgb(195, 216, 195));
+}
+
+.navone {
+    font-size: 2em;
+    display: flex;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    justify-content: space-around;
+   background-image: linear-gradient(rgb(195, 231, 98) ,rgb(248, 51, 51));
+    /* border: 2px solid black; */
+    box-shadow: 3px 6px black;
+}
+a{
+    text-decoration: none;
+    color: black;
+   
+    /* color: azure; */
+}
+h1{
+    position: relative;
+    right:450px;
+    top: 0px;
+    font-size: 2.5em;
+}
+
+.btn{
+    height: 50px;
+    width: 150px;
+    /* border: 2px solid black; */
+    border-radius: 20px;
+    position: relative;
+    left: 380px;
+    font-size: 1.5;
+    top:80px ;
+}
+.blue{
+    color: blue;
+    text-decoration: underline;
+    
+}
+table{
+    margin-top: 50px;
+    border: 2px solid black;
+    width: 100%;
+    line-height: 50px;
+   
+}
+.one{
+    width: 50px;
+    text-decoration: underline;
+    color: blue;
+}
